@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AsynTask</string>
+    <string name="ticker">DemoAsynTask</string>
+    <string name="content_title">Trần Mạnh Hưng</string>
+    <string name="content_text">Đã load xong</string>
+    <string name="sub_text">This is sub text</string>
 </resources>
